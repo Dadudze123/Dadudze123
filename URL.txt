@@ -1,1 +1,1 @@
-https://8bd95136.ngrok.io
+http://8bd95136.ngrok.io
